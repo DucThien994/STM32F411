@@ -3,6 +3,11 @@
 #include <stdio.h>
 #include <string.h>
 
+/*
+ddddddddddddddddddddddddddddddddddddddddd
+faiowejfiuhiuashdfuihiuoqwfuiohawfargiuahfiuohaweuif
+
+*/
 
 char tx_buffer[32]; // luu chuoi ky tu tra ve nhiet do
 char rx_char; // ky tu stm32 nhan duoc
